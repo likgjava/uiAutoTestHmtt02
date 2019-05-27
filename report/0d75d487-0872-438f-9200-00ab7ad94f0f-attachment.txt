@@ -1,0 +1,5 @@
+test_article.py             39 INFO     param channel=数据库 title=test0007
+base_page.py                15 INFO     location=('class name', 'android.widget.HorizontalScrollView')
+base_page.py                15 INFO     location=('xpath', "//android.widget.HorizontalScrollView/*[contains(@text, '数据库')]")
+base_page.py                15 INFO     location=('xpath', "//android.widget.HorizontalScrollView/*[contains(@text, '数据库')]")
+base_page.py                15 INFO     location=('xpath', "//*[contains(@text, 'test0007')]")
