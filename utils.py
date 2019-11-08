@@ -9,6 +9,7 @@ from selenium.webdriver.common.keys import Keys
 
 def select_item(driver, placeholder, value):
     print("1111111111")
+    print("222222")
     # 点击下拉框
     driver.find_element_by_xpath("//*[@placeholder='{}']".format(placeholder)).click()
 
